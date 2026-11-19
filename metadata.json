@@ -1,0 +1,6 @@
+{
+  "name": "AquaGuard AI",
+  "description": "Low-cost real-time pH and turbidity monitoring system for drinking-water distribution pipelines with rule-based alerts and AI-assisted anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
